@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="customSidebarHeight" value="24" />
+    <option name="highlightThickness" value="1" />
+    <option name="tabsHeight" value="35" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="-760c4bc6:16664f99cdb:-7fff" />
+    <option name="version" value="3.3.0" />
+  </component>
+</application>

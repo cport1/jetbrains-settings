@@ -1,0 +1,90 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.8.0" last-modified="1535399185000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="8.9.1" last-modified="1510094592000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="9-58-89-255,,,65-76-255-255,,,229-9-3-255,,,241-86-59-255,,,253-255-136-255,,,184-60-47-255,,,165-165-165-255,,,255-165-0-255,,,253-17-105-255,,,190-200-100-255,,,88-107-145-255,,,108-108-108-255,,,187-141-229-255,,,43-66-138-255,,,66-94-226-255,,,103-121-255-255,,,165-119-216-255,,,128-203-207-255,,,0-121-107-255,,,248-248-248-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8472222" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7005758" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Palenight" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.08006536" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="KEYMAP" value="multiple&#10;find" />
+    <property name="KarmaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="KarmaJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="KarmaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="KarmaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KarmaJavaScriptTestRunnerSupport.showInlineStatistics" value="false" />
+    <property name="KarmaJavaScriptTestRunnerSupport.sortTestsByDuration" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="35" />
+    <property name="PLUGIN_FILTER" value="grap&#10;graph&#10;schema&#10;graphq&#10;ma" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="ProtractorJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SettingsSearchHistory" value="tab size&#10;tab&#10;font size&#10;karma&#10;typescr" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.5042017" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="PALENIGHT" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt.WS-183.3975.16" value="1673fae80cd" />
+    <property name="evlsprt.WS-183.4284.46" value="1678c811c27" />
+    <property name="evlsprt2.WS-183.3975.16" value="166f3744519" />
+    <property name="evlsprt2.WS-183.4284.46" value="1673167b468" />
+    <property name="evlsprt3.163" value="16" />
+    <property name="evlsprt3.171" value="10" />
+    <property name="evlsprt3.172" value="16" />
+    <property name="evlsprt3.173" value="14" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="evlsprt3.WS-183.3795.15" value="11" />
+    <property name="evlsprt3.WS-183.3975.16" value="15" />
+    <property name="evlsprt3.WS-183.4284.46" value="18" />
+    <property name="exception.accepted.notices" value="182193a2:58c618e4" />
+    <property name="export.settings.path" value="$USER_HOME$/Desktop/settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Dev/rontologyfactory&#10;/home/christopher/Dev/portable-nginx&#10;/home/christopher/Dev/webapp/src/app/routes&#10;/home/christopher/Dev/webapp&#10;/home/christopher/Desktop&#10;/home/christopher/harvest/next.js/examples/custom-server-typescript&#10;/home/christopher/harvest/harvestServer&#10;/home/christopher/harvest/redux-observable/examples/redux-observable-cancellable-counter&#10;/home/christopher/harvest/redux-observable/examples/redux-observable-shopping-cart&#10;/home/christopher/harvest/redux-observable&#10;/home/christopher/harvest/react-redux-observable-typescript-sample&#10;/home/christopher/harvest/harvestApp&#10;/home/christopher&#10;/home/christopher/Dev/react-redux-typescript-boilerplate&#10;/home/christopher/Dev/codemontor&#10;/home/christopher/Dev/2-5-1/rwb-3core-webapp&#10;/home/christopher/Downloads/Material_Theme-2.1.3.zip&#10;/home/christopher/Dev/Data-Viz&#10;/home/christopher/Dev/brace&#10;/home/christopher/Dev/chris-app&#10;/home/christopher/Dev/hnpwa&#10;/home/christopher/Dev/angular/supertest&#10;/home/christopher/Dev/demo-resources-r15&#10;/home/christopher/Dev/angular-ngrx-material-starter&#10;/home/christopher/Dev/platform&#10;/home/christopher/Dev/ng2-tag-input&#10;/home/christopher/Dev/reactive-core-website&#10;/home/christopher/Dev/ngx-datatable&#10;/home/christopher/Dev/ng-universal-demo&#10;/home/christopher/Dev/rwb-3core-webapp/src/app/containers/creative-core/creative-home/creative-home.component.scss" />
+    <property name="file.gist.reindex.count" value="966660" />
+    <property name="fileTypeChangedCounter" value="31" />
+    <property name="find.popup.splitter" value="0.24673913" />
+    <property name="idea.background.frame" value="https://raw.githubusercontent.com/ChrisRM/material-theme-jetbrains/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="idea.background.frame.default" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="idea.background.frame.mt" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="ignore.ibus.blocking.warn.message" value="true" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="rerun.tests.notification.shown" value="true" />
+    <property name="selected.color.option.type" value="LINE_NONE_COVERAGE" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Spaces" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.splitter.proportion" value="0.9634318" />
+  </component>
+</application>
