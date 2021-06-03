@@ -4,6 +4,7 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -19,7 +20,7 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-760c4bc6:16664f99cdb:-7fff" />
-    <option name="version" value="5.2.0" />
+    <option name="version" value="6.5.0.1" />
     <option name="tabHighlightPosition" value="Full" />
   </component>
 </application>
